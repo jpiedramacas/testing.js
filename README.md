@@ -63,8 +63,6 @@ Antes de desplegar la aplicación, asegúrate de tener instalado Node.js y npm e
 
 ## Pruebas
 
-## Despliegue
-
 ### Requisitos Previos
 
 Antes de desplegar la aplicación, asegúrate de tener instalado Node.js y npm en tu sistema. Puedes descargar e instalar Node.js desde [https://nodejs.org/](https://nodejs.org/).
