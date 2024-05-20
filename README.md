@@ -59,10 +59,6 @@ Antes de desplegar la aplicación, asegúrate de tener instalado Node.js y npm e
 
     Esto forzará la instalación de la versión 15.4.2 de `react-addons-perf`, lo que podría resolver cualquier conflicto de dependencias.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia de mejora, no dudes en abrir un problema o enviar una solicitud de extracción en el repositorio de GitHub.
-
 ---
 
 ## Pruebas
@@ -82,4 +78,6 @@ Las pruebas de rendimiento se encuentran en el directorio `src/__tests__/rendimi
 ```bash
 npm run test:performance
 ```
+## Contribuciones
 
+Las contribuciones son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia de mejora, no dudes en abrir un problema o enviar una solicitud de extracción en el repositorio de GitHub.
