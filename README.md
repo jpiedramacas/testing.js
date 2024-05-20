@@ -1,8 +1,6 @@
 
 ---
 
-# Proyecto X - README
-
 ## Descripción del Proyecto
 
 Este proyecto es una aplicación web desarrollada con React para gestionar una lista de tareas. Permite a los usuarios agregar nuevas tareas, marcarlas como completadas y eliminarlas de la lista. Además, incluye pruebas unitarias y de rendimiento para garantizar el correcto funcionamiento y rendimiento de la aplicación.
