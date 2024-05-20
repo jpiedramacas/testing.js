@@ -63,6 +63,23 @@ Antes de desplegar la aplicación, asegúrate de tener instalado Node.js y npm e
 
 ## Pruebas
 
+## Despliegue
+
+### Requisitos Previos
+
+Antes de desplegar la aplicación, asegúrate de tener instalado Node.js y npm en tu sistema. Puedes descargar e instalar Node.js desde [https://nodejs.org/](https://nodejs.org/).
+
+### Pasos para Desplegar
+
+1. **Instalación de Dependencias**: Antes de desplegar la aplicación, asegúrate de instalar todas las dependencias del proyecto:
+
+
+    ```bash
+
+    npm install --save-dev @testing-library/jest-dom
+
+    ```
+
 ### Pruebas Unitarias
 
 Las pruebas unitarias se encuentran en el directorio `src/__tests__/unit.test.js`. Estas pruebas se encargan de verificar el comportamiento correcto de los componentes individuales de la aplicación, como el encabezado, el formulario de tareas y la lista de tareas. Para ejecutar las pruebas unitarias, utiliza el siguiente comando:
